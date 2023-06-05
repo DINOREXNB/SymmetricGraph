@@ -1,5 +1,4 @@
-# mirai-console-plugin-template
+# SymmetricGraph
+- 一个简单的对称图像生成器
+- ~~给群友生成龙图用~~
 
-[Mirai Console](https://github.com/mamoe/mirai-console) 插件模板, 使用 Kotlin + Gradle.
-
-[如何使用](https://github.com/project-mirai/how-to-use-plugin-template)
